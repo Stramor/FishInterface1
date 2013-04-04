@@ -11,6 +11,6 @@ public class MainStarter {
     // 1 - исходный с названием WeAreTheChampions
     // 2 - список List обработанного сигнала. Аргумент этой функции - inputSignal - исходный сигнал. Назване графика New window
     System.out.println(Collections.max(inputSignal));// вывод на экран максимума списка inputSignal
-    System.out.println("Test");
+    System.out.println("Test2");
   }
 }
